@@ -1,5 +1,6 @@
 # Outil automatisé de reconnaissance & scan de vulnérabilités en Bash
 
+
 **Attention :** Cet ensemble de scripts a été développé à des fins de tests de sécurité et de bug bounty dans un cadre légal et contrôlé. **Utilisez ces outils uniquement sur des cibles pour lesquelles vous disposez d’une autorisation explicite.**
 
 ## Table des matières
@@ -137,6 +138,10 @@ Selon la configuration et les fonctions activées, le script pourra lancer tour 
 - La recherche de fuites de secrets
 
 Certains tests nécessitent une interaction (confirmation ou appui sur une touche pour continuer).
+
+Exemple de la partie des analyse de paramètres : 
+![Function param analysis](https://github.com/user-attachments/assets/d2f0a237-8b24-4dbe-9b33-fedb794c6e86)
+
 
 ### Menu interactif
 
